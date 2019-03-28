@@ -1,0 +1,27 @@
+{
+  "name": "expressjs-server",
+  "version": "1.0.0",
+  "description": "bulid an expressjs server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ioulungTsai/expressJS-server.git"
+  },
+  "author": "brandonTsai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ioulungTsai/expressJS-server/issues"
+  },
+  "homepage": "https://github.com/ioulungTsai/expressJS-server#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "json-server": "^0.14.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
