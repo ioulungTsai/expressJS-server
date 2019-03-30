@@ -1,5 +1,4 @@
 const express = require('express');
-const jsonServer = require('json-server');
 
 const server = express();
 
